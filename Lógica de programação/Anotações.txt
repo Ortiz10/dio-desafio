@@ -1,37 +1,37 @@
-# Lógica de programação
+Lógica de programação
 
-## Algoritmo 
+Algoritmo 
 É uma sequência de passos para resolver o problema.
 
-## Pseudocódigo
+Pseudocódigo
 É uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples.
 
-## Fluxograma
+Fluxograma
 É uma ferramenta para representar graficamente o algoritmo.
 
-## Variável 
+Variável 
 É um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo.
 
-## Linguagem de programação 
+Linguagem de programação 
 É uma escrita formal que especifica um conjuto de instruções e regras usadas para gerar programas.
 
-## Linguagem de ALTO nível 
+Linguagem de ALTO nível 
 Linguagem que se aproxima mais da nossa lingua.
 
-## Linguagem de BAIXO nível
+Linguagem de BAIXO nível
 Linguagem que se aproxima mais da lingua da máquina.
 
-## Linguagem INTERPRETADA 
+Linguagem INTERPRETADA 
 Código fonte é executado por um programa.
 
-## Linguagem COMPILADA 
+Linguagem COMPILADA 
 Pega o código fonte e traduz para linguagem da máquina.
 
-## Laço de repetição 
+Laço de repetição 
 Estrutura que permite executar mais deuma vez o mesmo comando ou conjunto de comandos.
 
-## Matriz
+Matriz
 É uma coleção de variáveis do mesmo tipo.
 
-## Vetores 
+Vetores 
 São matrizes de uma só dimensão.
