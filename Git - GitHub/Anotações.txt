@@ -1,0 +1,23 @@
+Windows 
+- cd
+- dir
+- mkdir
+- del / rmdir
+
+Unix
+- cd
+- ls
+- mkdir
+- rm - rf
+
+SHA1 - É uma forma certa de representar um arquivo
+
+OBJETOS INTERNOS: Blobs, trees, commit.
+
+Blobs - São os arquivos, são os "sha1" desses arquivos.
+
+trees - Aponta respectivamente para o blobs com o seu "sha1", também armazena o nome desses arquivos
+
+Commit - Dando o significado para todo esse conjunto de alterações. Que por sua vez aponta para essa tree, aponta para o blobs. Esse commit também tem o autor.
+
+Chave SSH - é uma forma de estabelecer uma conexão segura e incriptada entre duas máquinas.

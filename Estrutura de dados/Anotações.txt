@@ -1,0 +1,32 @@
+Estrutura de dados
+É uma estrutura organizada de dados na memória de um computador ou um qualquer dispositivo de armazenamento.
+
+Principais estruturas
+Vetores e matrizes, registro, lista, pilha, fila, arvóre, tabela hash e grafos.
+
+Vetores e matrizes
+São estruturas simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo.
+
+Registro
+É uma estrutura que fornece um formato especializado para armazenar informações em memória.
+
+Lista
+Armazena dados de um determinado tipo em uma ordem especifica. Possuem tamanho ajustável.
+Existem lista LIGADA e lista DUPLAMENTE LIGADA.
+
+Pilha
+É uma estrutura que serve como uma coleção de elementos, e permite acesso a somente um item do dado armazenado.
+LIFO OU UEPS
+FIFO OU PEPS
+
+Fila
+Admite remoções de elementos e inserção de novos objetos á seguinte regra de operação: o elemento removido é o que está na estrutura a mais tempo.
+
+Arvore
+É uma estrutura que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da arvorem chamado de raiz e existem os elementos subordinados a ele que são chamados de nós ou folhas.
+
+Tabelha de hash
+De dispersão ou espalhamento é uma estrutua de dados especial, que associa chaves de pesquisa a valores.
+
+Grafos
+São estruturas que permitem programar a relação entre objetos.
